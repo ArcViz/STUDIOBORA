@@ -1,0 +1,39 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_6C5A3ED2_63A0_4455_41D5_AE020C5BB899.source = https://api.whatsapp.com/send?phone=5524981314837
+LinkBehaviour_6CFDC106_63A1_BDBD_41C4_3B84D5927641.source = https://api.whatsapp.com/send?phone=5524981314837
+LinkBehaviour_4A45CEEF_5E1A_9BF4_41CA_16ECAA70E45E.source = https://studiobora.com.br/
+LinkBehaviour_6C5F7ED1_63A0_4457_41CD_BC1B81A2E554.source = https://studiobora.com.br/
+LinkBehaviour_6C5ACECB_63A0_444B_41B5_A82B8EDCA9DB.source = https://www.instagram.com/studiobora.resende/?igshid=YmMyMTA2M2Y%3D
+LinkBehaviour_4D0708F2_5E1B_87EC_41BB_3AE70F812290.source = https://www.instagram.com/studiobora.resende/?igshid=YmMyMTA2M2Y%3D
+
+## Media
+
+### Audio
+audiores_4C263972_5E2E_86EC_41CF_E93DACBF9634.mp3Url = media/audio_4A19F8C7_5E2D_8634_41D2_F463F702FBBE_pt.mp3
+
+### Title
+panorama_515C0732_5DEB_8A6C_41D4_5CFD0DF63DF2.label = 360 - STUDIO BORA - 01
+panorama_57B3C8FB_5DEB_87DC_41BD_0AD7AB8538F6.label = 360 - STUDIO BORA - 02
+
+## Skin
+
+### Image
+Image_4A93AA46_5E25_7A34_41B6_C9A0E5B203DC_mobile.url = skin/Image_4A93AA46_5E25_7A34_41B6_C9A0E5B203DC_mobile_pt.png
+Image_4A93AA46_5E25_7A34_41B6_C9A0E5B203DC.url = skin/Image_4A93AA46_5E25_7A34_41B6_C9A0E5B203DC_pt.png
+Image_4C3A9F12_5E1B_7A2C_41CE_67B04B525DC4_mobile.url = skin/Image_4C3A9F12_5E1B_7A2C_41CE_67B04B525DC4_mobile_pt.png
+Image_4C3A9F12_5E1B_7A2C_41CE_67B04B525DC4.url = skin/Image_4C3A9F12_5E1B_7A2C_41CE_67B04B525DC4_pt.png
+Image_4DA314CA_5E1A_8E3C_41C9_544F2A0DC383_mobile.url = skin/Image_4DA314CA_5E1A_8E3C_41C9_544F2A0DC383_mobile_pt.png
+Image_4DA314CA_5E1A_8E3C_41C9_544F2A0DC383.url = skin/Image_4DA314CA_5E1A_8E3C_41C9_544F2A0DC383_pt.png
+Image_6CE46DE8_63A0_C474_41C7_2595591B957F_mobile.url = skin/Image_6CE46DE8_63A0_C474_41C7_2595591B957F_mobile_pt.gif
+Image_6CE46DE8_63A0_C474_41C7_2595591B957F.url = skin/Image_6CE46DE8_63A0_C474_41C7_2595591B957F_pt.gif
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Studio bora
